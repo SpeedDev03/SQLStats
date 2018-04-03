@@ -1,0 +1,11 @@
+name: SQLStats
+version: 1.0
+description: WMC || Intake Project
+author: SpeedDev
+main: speeddev.info.stats.Main
+
+commands:
+    stats:
+        usage: /<command> 
+        aliases: [statistics, stat]
+        description: Stats command.
